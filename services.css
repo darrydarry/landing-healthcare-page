@@ -1,0 +1,118 @@
+.service-title {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.service-description {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #7D7987;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 192px;
+}
+
+.title-icons {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.icons-description {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.icons-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 800px;
+    align-items: baseline;
+    text-align: start;
+}
+
+.icons-wrapp {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    background: url(./img/Vector.png) no-repeat;
+} 
+
+.search {
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    margin-bottom: 27px;
+}
+
+.pharmacy {
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    margin-bottom: 27px;
+}
+
+.consultation {
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    margin-bottom: 27px;
+}
+
+.info {
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+
+.emergency {
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+
+.tracking {
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+
+.button-learn {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;
+    background-color: white;
+    border: 1.4px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+    width: 200px;
+}
+
+.icons-button {
+    display: flex;
+    justify-content: center;
+    padding-top: 69px;
+}

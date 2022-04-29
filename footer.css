@@ -1,0 +1,59 @@
+.footer-wrapp {
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    margin-top: 202px;
+}
+
+.footer-column {
+    display: flex;
+}
+
+.left-footer-column {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-self: center;
+    justify-items: center;
+    padding-left: 190px;
+}
+
+.right-footer-column {
+    display: flex;
+    flex: 2;
+    justify-content: space-evenly;
+}
+
+.trafalgar {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.trafalagar-description {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.footer-title {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.title-content {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 38px;
+    color: #FFFFFF;
+}

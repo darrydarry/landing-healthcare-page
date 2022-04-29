@@ -1,0 +1,117 @@
+.leading-wrapp {
+    display: flex;
+    margin-left: 250px;
+    padding-top: 220px;
+}
+
+.leading-healthcare {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 140px;
+}
+
+.download-wrapp {
+    display: flex;
+    padding-top: 229px;
+}
+
+.download-apps {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 240px;
+    padding-right: 80px;
+    align-items: flex-start;
+}
+
+.review-wrapp {
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+    width: 1120px;
+    margin-top: 266px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.arrows {
+    display: flex;
+    justify-content: center;
+}
+
+.main-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.edw-column {
+    display: flex;
+}
+
+.edw {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+}
+
+.edw-review {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.customer {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.edw-new {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.edw-founder {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.review-description {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.9);
+}
