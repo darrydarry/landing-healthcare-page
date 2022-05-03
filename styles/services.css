@@ -45,8 +45,7 @@
 .icons-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    width: 800px;
+    justify-content: space-around;
     align-items: baseline;
     text-align: start;
 }
@@ -60,40 +59,35 @@
 
 .search {
     background: #FFFFFF;
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
     margin-bottom: 27px;
+    box-shadow: 0px -8px 15px 1px rgba(34, 60, 80, 0.2);
 }
 
 .pharmacy {
     background: #FFFFFF;
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
     margin-bottom: 27px;
 }
 
 .consultation {
     background: #FFFFFF;
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
     margin-bottom: 27px;
 }
 
 .info {
     background: #FFFFFF;
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
 }
 
 .emergency {
     background: #FFFFFF;
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
 }
 
 .tracking {
     background: #FFFFFF;
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
 }
 
@@ -109,10 +103,18 @@
     box-sizing: border-box;
     border-radius: 55px;
     width: 200px;
+    cursor: pointer;
 }
 
 .icons-button {
     display: flex;
     justify-content: center;
     padding-top: 69px;
+}
+
+.cards {
+    width: 350px;
+    box-shadow: 0px -3px 15px 1px rgba(34, 60, 80, 0.2);
+    padding: 35px;
+    align-self: stretch;
 }
