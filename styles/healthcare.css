@@ -96,6 +96,7 @@ i {
     font-size: 22px;
     line-height: 48px;
     color: #FFFFFF;
+    margin: 0;
 }
 
 .edw-founder {
@@ -105,6 +106,7 @@ i {
     font-size: 18px;
     line-height: 48px;
     color: rgba(255, 255, 255, 0.85);
+    margin: 0;
 }
 
 .review-description {
