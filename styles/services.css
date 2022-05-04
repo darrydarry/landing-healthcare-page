@@ -45,7 +45,7 @@
 .icons-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: baseline;
     text-align: start;
 }
@@ -54,7 +54,6 @@
     display: flex;
     justify-content: center;
     margin-top: 80px;
-    background: url(./img/Vector.png) no-repeat;
 } 
 
 .search {
@@ -68,12 +67,14 @@
     background: #FFFFFF;
     border-radius: 20px;
     margin-bottom: 27px;
+    margin-left: 27px;
 }
 
 .consultation {
     background: #FFFFFF;
     border-radius: 20px;
     margin-bottom: 27px;
+    margin-left: 27px;
 }
 
 .info {
@@ -84,11 +85,13 @@
 .emergency {
     background: #FFFFFF;
     border-radius: 20px;
+    margin-left: 27px;
 }
 
 .tracking {
     background: #FFFFFF;
     border-radius: 20px;
+    margin-left: 27px;
 }
 
 .button-learn {

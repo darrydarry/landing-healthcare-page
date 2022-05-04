@@ -118,4 +118,9 @@ a {
     height: 5px;
     border-radius: 50%;
     margin: 22px 10px;
+    cursor: pointer;
+}
+
+.arrows {
+    cursor: pointer;
 }
